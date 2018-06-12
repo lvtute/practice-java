@@ -1,0 +1,15 @@
+public class FirstSample
+{
+	public static void main(String[] args)
+	{
+		System.out.println("We will not use 'Hello, World!'");
+		long a = 0l;
+		System.out.println(a);
+		String s = "thuan";
+		System.out.println(s);		
+		s= "cac";
+		System.out.println(s);
+	}
+}
+
+

@@ -1,0 +1,16 @@
+
+public class TestArray {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int[] a = new int[]{ 17, 19, 23, 29, 31, 37 };
+
+		int[] b = a;
+		System.out.println(b[]);
+		a[3]=0;
+		
+		System.out.println(b[3]);
+	}
+
+}

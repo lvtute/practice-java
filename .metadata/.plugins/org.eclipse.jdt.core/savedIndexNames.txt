@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\java projects\I do these fucking project again\.metadata\.plugins\org.eclipse.jdt.core
+2321533470.index
